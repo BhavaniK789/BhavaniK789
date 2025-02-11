@@ -24,16 +24,10 @@ I am a **Full Stack Developer (Fresher)** passionate about building interactive 
 - Selenium & Automation Testing 🔍
 - Git & GitHub 🛠️
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" alt="GitHub Stats">
-</p>
-
 ### 📫 Connect with Me
 
 - 💼 https://www.linkedin.com/in/bhavani37/
 - 📧 kallebhavani25@gmail.com
-- 🌐 [Portfolio](https://your-portfolio.com)
 
 <p align="center">
   <img src="https://visitor-badge.glitch.me/badge?page_id=your-username" alt="Visitors">
