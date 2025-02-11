@@ -31,8 +31,8 @@ I am a **Full Stack Developer (Fresher)** passionate about building interactive 
 
 ### 📫 Connect with Me
 
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile)
-- 📧 your-email@example.com
+- 💼 https://www.linkedin.com/in/bhavani37/
+- 📧 kallebhavani25@gmail.com
 - 🌐 [Portfolio](https://your-portfolio.com)
 
 <p align="center">
