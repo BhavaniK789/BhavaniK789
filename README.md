@@ -1,16 +1,44 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Kalle Bhavani 👋</h1>
 
-<!--
-**BhavaniK789/BhavaniK789** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://github.com/your-username/your-repo/blob/main/banner.png" alt="Banner Image" width="100%">
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+
+I am a **Full Stack Developer (Fresher)** passionate about building interactive and scalable applications. I have experience in **frontend**, **backend**, and **software testing**.
+
+### 🛠 Skills
+
+#### 💻 Programming & Markup Languages:
+- Java ☕
+- SQL 📊
+- HTML & CSS 🎨
+- JavaScript ⚡
+
+#### 🏗️ Frameworks & Tools:
+- Spring Boot 🌿
+- React.js ⚛️
+- Selenium & Automation Testing 🔍
+- Git & GitHub 🛠️
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" alt="GitHub Stats">
+</p>
+
+### 📫 Connect with Me
+
+- 💼 [LinkedIn](https://linkedin.com/in/your-profile)
+- 📧 your-email@example.com
+- 🌐 [Portfolio](https://your-portfolio.com)
+
+<p align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=your-username" alt="Visitors">
+</p>
+
+---
+
+⭐️ **Feel free to explore my repositories and connect!**
