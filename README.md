@@ -1,9 +1,5 @@
 <h1 align="center">Hi, I'm Kalle Bhavani 👋</h1>
 
-<p align="center">
-  <img src="https://github.com/your-username/your-repo/blob/main/banner.png" alt="Banner Image" width="100%">
-</p>
-
 ---
 
 ### 🚀 About Me
