@@ -16,7 +16,6 @@ I am a **Full Stack Developer (Fresher)** passionate about building interactive 
 
 #### 🏗️ Frameworks & Tools:
 - Spring Boot 🌿
-- React.js ⚛️
 - Selenium & Automation Testing 🔍
 - Git & GitHub 🛠️
 
@@ -24,10 +23,6 @@ I am a **Full Stack Developer (Fresher)** passionate about building interactive 
 
 - 💼 https://www.linkedin.com/in/bhavani37/
 - 📧 kallebhavani25@gmail.com
-
-<p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=your-username" alt="Visitors">
-</p>
 
 ---
 
